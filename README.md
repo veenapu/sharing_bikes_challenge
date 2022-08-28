@@ -25,25 +25,34 @@ For this analysis, using Pandas to change the "tripduration" column from an inte
 - A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender
 - A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender
 
-### Deliverable 3: Create a Story and Report for the Final Presentation
+### Deliverable 3: Create a Story in Tableau
 
 
-## Results and Summary:
+## Results:
 
 - There are more male users than female and unknown users.
 - Most weekday rides are between 7:00 am to 9:00 am in the morning and between 4:00 pm to 7:00 pm
 
 Here are the visualizations for the NYC Citibike analysis
-![Number_of_Records](link)
-![Trips_by_Gender](link)
-![Checkout_Times_by_Gender](link)
-![Checkout_Times_for_Users](link)
-![citibike_data](link)
-![Gender_breakdown](link)
-![Trips_by_Weekday_per_hour](link)
-![User_Trips_by_Gender_by_Weekday](link)
+![citibike_data](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/citibike_data.PNG)
 
-The analysis shows high activity in New Yor in the month of Aug. 2019.  Most rides are taken by male users during rush hour in the morning and evening. This is probably due to the fact the bike service is used as an alternative to the public transportation.
+![Number_of_Records](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/No_of_records.PNG)
+
+![Gender_breakdown](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Gender_breakdown.PNG)
+
+![Checkout_Times_for_Users](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Checkout_Times_for_Users.PNG)
+
+![Checkout_Times_by_Gender](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Checkout_Times_by_Gender.PNG)
+
+![Trips_by_Weekday_per_hour](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Trips_by_Weekday_per_hour.PNG)
+
+![Trips_by_Gender](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Trips_by_Gender.PNG)
+
+![User_Trips_by_Gender_by_Weekday](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/User_Trips_by_Gender_by_Weekday.PNG)
+
+
+## Summary:
+The analysis shows high activity in New York in the month of Aug. 2019.  Most rides are taken by male users during rush hour in the morning and evening. This is probably due to the fact the bike service is used as an alternative to the public transportation.
 
 Additional analysis can be done on analyzing for different months to see a pattern/trend to increase the bike usage.  And, weather can play a key factor in finding the correlation between the bike usage and weather.
 
