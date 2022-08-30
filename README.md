@@ -45,20 +45,19 @@ The number of records analyzed are 2,344,224.
 Highest bike user pecentage was male (65%), then female (25%) and then unknown(10%). 
 
 ![Checkout_Times_for_Users](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Checkout_Times_for_Users.PNG)
-Most bikes checked out for 4-6 hours.
+Majority of users checkout between the first 20 minutes, which means a higher quantity of bikes must be made available to meet the demand.
 
 ![Checkout_Times_by_Gender](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Checkout_Times_by_Gender.PNG)
-There were 3 times more male bike users than female bike users.
+There were 3 times more male bike users than female bike users and male bike users take a slightly longer trips.
 
 ![Trips_by_Weekday_per_hour](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Trips_by_Weekday_per_hour.PNG)
+During the weekdays, people use the bike servicers to cover the rush hour traffic, in the mornings and evening, to and fro from work.  On weekends, Saturday seems to be a busier with highest weekend usage of bikes.
 
 ![Trips_by_Gender](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Trips_by_Gender.PNG)
+Majority of bike users are males, during the peak hours of traffic.  
 
 ![User_Trips_by_Gender_by_Weekday](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/User_Trips_by_Gender_by_Weekday.PNG)
-
-- Most weekday rides are during rush hours between 7 am to 9 am and 5 pm to 7pm.
-- Weekend rides are highest from 10 am to 7pm.
-- Those rides are mostly taken by male bike users.
+Most subscribers are males, using the service suring weekdays. 
 
 ## Summary:
 The analysis shows high activity in New York in the month of Aug. 2019.  Most rides are taken by male users during rush hour in the morning and evening. This is probably due to the fact the bike service is used as an alternative to the public transportation.
