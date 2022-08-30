@@ -26,7 +26,7 @@ For this analysis, using Pandas to change the "tripduration" column from an inte
 - A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender
 
 ### Deliverable 3: Create a Story in Tableau
-![Tableau_Story](https://public.tableau.com/app/profile/veena.puvvada/viz/citibike_challenge_16613887111010/Story1?publish=yes)
+![Tableau_Story]([https://public.tableau.com/app/profile/veena.puvvada/viz/citibike_challenge_16613887111010/Story1?publish=yes](https://public.tableau.com/app/profile/veena.puvvada/viz/citibike_challenge_16613887111010/Story1?publish=yes))
 
 ## Results:
 
