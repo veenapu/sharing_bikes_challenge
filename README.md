@@ -36,27 +36,35 @@ For this analysis, using Pandas to change the "tripduration" column from an inte
 Here are the visualizations for the NYC Citibike analysis
 
 ![citibike_data](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/citibike_data.PNG)
+
 Here is the citi bike data with the trip duration column with added datetime stamp.
 
 ![Number_of_Records](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/No_of_records.PNG)
+
 The number of records analyzed are 2,344,224.
 
 ![Gender_breakdown](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Gender_breakdown.PNG)
+
 Highest bike user pecentage was male (65%), then female (25%) and then unknown(10%). 
 
 ![Checkout_Times_for_Users](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Checkout_Times_for_Users.PNG)
+
 Majority of users checkout between the first 20 minutes, which means a higher quantity of bikes must be made available to meet the demand.
 
 ![Checkout_Times_by_Gender](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Checkout_Times_by_Gender.PNG)
+
 There were 3 times more male bike users than female bike users and male bike users take a slightly longer trips.
 
 ![Trips_by_Weekday_per_hour](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Trips_by_Weekday_per_hour.PNG)
+
 During the weekdays, people use the bike servicers to cover the rush hour traffic, in the mornings and evening, to and fro from work.  On weekends, Saturday seems to be a busier with highest weekend usage of bikes.
 
 ![Trips_by_Gender](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/Trips_by_Gender.PNG)
+
 Majority of bike users are males, during the peak hours of traffic.  
 
 ![User_Trips_by_Gender_by_Weekday](https://github.com/veenapu/sharing_bikes_challenge/blob/main/Images/User_Trips_by_Gender_by_Weekday.PNG)
+
 Most subscribers are males, using the service suring weekdays. 
 
 ## Summary:
